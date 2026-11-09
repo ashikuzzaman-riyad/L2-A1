@@ -1,8 +1,8 @@
-const multiplyValue = (a: number, b?: number) => {
-  if (b === undefined) {
-    return a * 2;
+const multiplyValue = (value: number, multiplier?: number) => {
+  if (multiplier === undefined) {
+    return value * 2;
   } else {
-    return a * b;
+    return value * multiplier;
   }
 };
 
