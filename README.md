@@ -1,3 +1,6 @@
+[Read My Blog type vs interface](./type-vs-interface.md)
+[Read My Blog any, unknown, never](./any-unknown-never.md)
+
 # TypeScript Assignment – Problem Solving & OOP
 
 ## Introduction
