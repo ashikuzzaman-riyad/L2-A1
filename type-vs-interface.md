@@ -19,7 +19,7 @@ interface Student {
 const student: Student = {
   name: "Riyad",
   age: 21,
-  email: "riyad@gmail.com",
+  email: "a.riyad.dev@gmail.com",
 };
 
 এখানে আমরা Student নামে একটি Interface তৈরি করেছি।
